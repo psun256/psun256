@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-
+    
 ```math
-\ce{$\unicode[goombafont; scale: 10; image-rendering: pixelated; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/psun256/psun256/main/dirt.png');]{x0000}$}
+\ce{$\unicode[goombafont; scale: 1; image-rendering: pixelated; color:red; pointer-events: none; z-index: 10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 0; background: url('https://raw.githubusercontent.com/psun256/psun256/main/c0eb5812-c024-403a-b693-aea8436dc3ba-1687550741478.jpg'); animation: ease-in 5s fade-out 7s ]{x0000}$}
 
 <!--
 **psun256/psun256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
